@@ -1,0 +1,3 @@
+• DBMS is consider as a software used to manage the database by handling the query in SQL language.
+• In this project we implement the application which works like the DBMS.
+• Programmatically we provide the logic of all types of query that we can write to maintain and manipulate the database.
